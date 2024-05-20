@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiUserBank_Hunt", "MultiUserBank_Hunt\MultiUserBank_Hunt.csproj", "{7A70E2E8-A5F3-44A5-9A8A-98CB84297CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A70E2E8-A5F3-44A5-9A8A-98CB84297CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A70E2E8-A5F3-44A5-9A8A-98CB84297CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A70E2E8-A5F3-44A5-9A8A-98CB84297CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A70E2E8-A5F3-44A5-9A8A-98CB84297CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD357F3-829A-4D60-A21C-701A6530729F}
+	EndGlobalSection
+EndGlobal
